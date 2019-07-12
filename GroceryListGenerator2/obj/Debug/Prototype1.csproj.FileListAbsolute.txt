@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Prototype1\Prototype1\bin\Debug\Prototype1.exe.config
+c:\users\user\source\repos\Prototype1\Prototype1\bin\Debug\Prototype1.exe
+c:\users\user\source\repos\Prototype1\Prototype1\bin\Debug\Prototype1.pdb
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.Form1.resources
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.Properties.Resources.resources
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.csproj.GenerateResource.Cache
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.exe
+c:\users\user\source\repos\Prototype1\Prototype1\obj\Debug\Prototype1.pdb
+C:\Users\User\source\repos\Prototype1\Prototype1\bin\Debug\FoodDB.xlsx
